@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Style Converter v8",
+  "description": "An application to convert your photos into various artistic styles using AI. Upload an image, choose a style, and let the AI transform it.",
+  "requestFramePermissions": []
+}
